@@ -1,5 +1,4 @@
 # laba4
-# laba4
 КАЧАЄМО ЧЕРЕЗ КЛОН або напряму цілим файлом(скачуємо .zip) git clone https://github.com/marjanlukavy/cs-oop/tree/main
 
 СТВОРЮЄМО ВІРТУАЛЬНЕ СЕРЕДОВИЩЕ
